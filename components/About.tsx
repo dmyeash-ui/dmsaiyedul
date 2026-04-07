@@ -2,10 +2,10 @@ import React from 'react';
 
 const About: React.FC = () => {
   const details = [
-    { label: 'Full Name', value: 'Md.Al- Rabbany' },
+    { label: 'Full Name', value: 'MD Abu Saiyedul Bashar' },
     { label: 'City', value: 'Rangpur, Bangladesh' },
-    { label: 'Age', value: '24 Years Old' },
-    { label: 'Email', value: 'pfrabbanybd@gmail.com' },
+    { label: 'Age', value: '23 Years Old' },
+    { label: 'Email', value: 'dmsaiyedul@gmail.com' },
     { label: 'Nationality', value: 'Bangladeshi' },
     { label: 'Specialization', value: 'YouTube Promotion & SEO Expert' },
   ];
@@ -23,7 +23,7 @@ const About: React.FC = () => {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/5 bg-[#111]">
               <img 
                 // Notun Google Content Link Add Kora Hoyeche
-                src="https://blogger.googleusercontent.com/img/a/AVvXsEitAQFKbC69jlh9gPJpu7Izwg3SBd8jrmUPaiSYPhZL1bI9G5mrF_laeLFayOqxdg2OZTkg34v_o6Tx5NqvLvuynIA6c3V3Nx5J1b6-u4sag_CWkPCZ7Tj85EPfgbRh2UAZ-FBmhzT7AXk_8RwcYhDutbPMC1AF2AQwgH6KfEQa-BMkl9XD09XlvSlt8g" 
+                src="https://blogger.googleusercontent.com/img/a/AVvXsEjtqPMbBZpi42LD211KtK-ZDb2wEtLCp15jqM2BwiMYaSFBymKTyXTDzCAbVvGMa38FTQutRwmvi-4wYOIAniqaWguZ-aEuW8nTWp3YHp6MKzDB8lApT_nyG2WOJu_Goy1dhc5dhvZXSrso88t6ZCXjDxM3HAb6GplfAJaI-lATXJcbMlUPHlQOoIlaEA" 
                 alt="Rabbany Working" 
                 className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700 scale-105 group-hover:scale-100 object-cover"
                 onError={(e) => {
@@ -48,7 +48,7 @@ const About: React.FC = () => {
                 About <span className="underline decoration-yellow-500 decoration-2 underline-offset-[12px]">Me!</span>
               </h3>
               <p className="text-gray-400 text-lg leading-relaxed mb-10 font-light text-justify">
-                 <span className="text-white font-medium"></span> I’m Md.al- Rabbany, a professional digital marketer with a wealth of experience in SEO technical skills, social media management, and Google Ads campaigns. I specialize in helping businesses like yours attract more customers, increase visibility, and achieve measurable growth through strategic, data-driven marketing.
+                 <span className="text-white font-medium"></span> MD Abu Saiyedul Bashar, a professional digital marketer with a wealth of experience in SEO technical skills, social media management, and Google Ads campaigns. I specialize in helping businesses like yours attract more customers, increase visibility, and achieve measurable growth through strategic, data-driven marketing.
               </p>
             </div>
 

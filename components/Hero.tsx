@@ -48,8 +48,8 @@ const Hero: React.FC = () => {
         <div className="absolute -inset-2 bg-gradient-to-r from-yellow-400 to-orange-600 rounded-full blur-md opacity-30 group-hover:opacity-60 transition duration-1000"></div>
         <div className="relative w-56 h-56 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-[#0a0a0a] shadow-2xl bg-[#111]">
           <img 
-            src="https://blogger.googleusercontent.com/img/a/AVvXsEgGbSGG6EggRlbOiL_hegFgI7mN-2dGrsLJWAXGJ_YFpl-x5oHyHPDXmAr73jriWUcj3K3yYm8flqc73cWY7odf4s9CfXqZQ-qv8tR7HW4gEEuPVPO2ljF-jkejZBObUPmIw0A3OitAA5KWqQkg4fxGub8_8TnfooZy281cNmXM4tOAwi5fikzyBD2mOg" 
-            alt="Md.Al- Rabbany" 
+            src="https://blogger.googleusercontent.com/img/a/AVvXsEiSlA8rUdKRwFSZ1_sI-iJn6BQT9Yzf9jz2LTJsaA8twtj_RCR0BxY5Z7P1QLGB-Ia_d6cv_ZKdrdsoq0PlIbdSNAWZxBjGAv2aUk5_45ZZQ2nvft1lPGUTYeaFMksyyMbjTSNU18D3Am0sqcqjO3Xe_ZKWBmQsH0FyY-bxgFgSW63HOPlaF7RXLv69Mg" 
+            alt="MD Abu Saiyedul Bashar" 
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
           />
         </div>
@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
         </div>
         
         <h1 className="text-4xl md:text-7xl font-extrabold mb-8 leading-[1.1] tracking-tight text-white">
-            Hi, <span className="text-gold-gradient italic font-serif">I'm Md.Al- Rabbany</span>
+            Hi, <span className="text-gold-gradient italic font-serif">I'm MD Abu Saiyedul Bashar</span>
           <br className="hidden md:block" /> A professional digital marketer
         </h1>
 

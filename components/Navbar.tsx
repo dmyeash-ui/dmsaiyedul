@@ -30,7 +30,7 @@ const Navbar: React.FC = () => {
         
         {/* Logo - z-index barano hoyeche */}
         <a href="#home" className="relative z-[10001] text-xl font-bold tracking-tighter text-yellow-500">
-          Md.Al- Rabbany<span className="text-white"></span>
+        MD Abu Saiyedul Bashar<span className="text-white"></span>
         </a>
 
         {/* Desktop Links */}
@@ -71,8 +71,8 @@ const Navbar: React.FC = () => {
             <div className="pt-10 space-y-6 border-t border-white/10">
               <div>
                 <h4 className="text-[10px] font-black text-yellow-500 uppercase tracking-[0.3em] mb-2">Contact Info</h4>
-                <p className="text-gray-400 text-sm">📞 +8801788291508</p>
-                <p className="text-gray-400 text-sm">✉️ pfrabbanybd@gmail.com</p>
+                <p className="text-gray-400 text-sm">📞 +8801787003794</p>
+                <p className="text-gray-400 text-sm">✉️ dmsaiyedul@gmail.com</p>
               </div>
               <div>
                 <h4 className="text-[10px] font-black text-yellow-500 uppercase tracking-[0.3em] mb-2">Location</h4>

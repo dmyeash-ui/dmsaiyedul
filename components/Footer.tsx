@@ -3,10 +3,10 @@ import React from 'react';
 const Footer: React.FC = () => {
   // Social link gulo ekhane update korte parbe
   const socials = [
-    { name: 'Facebook', icon: 'fab fa-facebook-f', href: 'https://www.facebook.com/pfrabbanybd' },
-    { name: 'Instagram', icon: 'fab fa-instagram', href: 'https://instagram.com/pfrabbanybd' },
-    { name: 'Twitter', icon: 'fab fa-x-twitter', href: 'https://twitter.com/pfrabbanybd' },
-    { name: 'LinkedIn', icon: 'fab fa-linkedin-in', href: 'https://www.linkedin.com/in/pfrabbanybd' },
+    { name: 'Facebook', icon: 'fab fa-facebook-f', href: 'https://www.facebook.com/fxsaiyedul' },
+    { name: 'Instagram', icon: 'fab fa-instagram', href: 'https://instagram.com/fxsaiyedul' },
+    { name: 'Twitter', icon: 'fab fa-x-twitter', href: 'https://twitter.com/fxsaiyedul' },
+    { name: 'LinkedIn', icon: 'fab fa-linkedin-in', href: 'https://www.linkedin.com/in/fxsaiyedul' },
     { name: 'YouTube', icon: 'fab fa-youtube', href: 'https://youtube.com' },
   ];
 
@@ -30,7 +30,7 @@ const Footer: React.FC = () => {
               Feel free to reach out if you want to collaborate with me, or simply have a chat.
             </p>
             <a 
-              href="mailto:bdsujonndm@gmail.com" 
+              href="mailto:dmsaiyedul@gmail.com" 
               className="border border-[#3b1472] hover:border-[#7c3aed] hover:bg-purple-600/10 inline-flex items-center gap-3 px-8 py-4 rounded-full font-semibold text-lg transition-all group"
             >
               Start a new project 
@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
               <h3 className="text-xl font-bold mb-6">Drop me a line</h3>
               <div className="flex items-center gap-4 text-gray-400 text-lg group">
                 <i className="fas fa-envelope text-purple-600"></i>
-                <a href="mailto:pfrabbanybd@gmail.com" className="hover:text-white transition-colors">pfrabbanybd@gmail.com</a>
+                <a href="mailto:dmsaiyedul@gmail.com" className="hover:text-white transition-colors">dmsaiyedul@gmail.com</a>
               </div>
             </div>
 
@@ -64,7 +64,7 @@ const Footer: React.FC = () => {
               <h3 className="text-xl font-bold mb-6">Direct Message Me</h3>
               <div className="flex items-center gap-4 text-gray-400 text-lg group">
                 <i className="fab fa-whatsapp text-purple-600 text-2xl"></i>
-                <a href="https://wa.me/8801788291508" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">+8801788291508</a>
+                <a href="https://wa.me/8801787003794" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">+8801787003794</a>
               </div>
             </div>
 
